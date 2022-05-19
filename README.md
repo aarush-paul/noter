@@ -1,4 +1,5 @@
-#Noter
+# Noter
+
 A simple note taking app built on python3
 
 ### Features
@@ -33,4 +34,4 @@ $ pip install -r requirements.txt
 ### Supported Platform 
 
 > **`Ubuntu/Debian/Kali`**, **`Windows`**
-> **`Should be used with Python 3.x
+> **`Should be used with Python 3.x`**
